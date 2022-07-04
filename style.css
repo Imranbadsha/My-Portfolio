@@ -48,3 +48,30 @@ background-image: linear-gradient(orange, tomato);
         padding-left: 70px;
         margin-left: 40px;
 }
+#Ex {
+    font-size: 50px;
+}
+
+.last{
+    width: 40%;
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-bottom: 5%;
+    box-shadow: 10px 10px 10px;
+    
+
+}
+#img-last{
+    background-image: url(image/exp-bg.png);
+    background-repeat: no-repeat;
+}
+footer{
+    text-align: center;
+}
+#baby{
+    border-left: 5% red;
+}
+#Full-Stack{
+    border-left: 10px;
+    border-color: blue;
+}
