@@ -69,9 +69,9 @@ footer{
     text-align: center;
 }
 #baby{
-    border-left: 5% red;
+    border-left: solid 10px red;
 }
 #Full-Stack{
-    border-left: 10px;
+    border-left: solid 10px;
     border-color: blue;
 }
